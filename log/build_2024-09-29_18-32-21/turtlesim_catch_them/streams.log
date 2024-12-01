@@ -1,0 +1,25 @@
+[0.848s] Invoking command in '/home/nitin/ros2_ws/scr/turtlesim_catch_them': CMAKE_PREFIX_PATH=/home/nitin/ros2_ws/install/my_robot_interfaces:/home/nitin/ros2_ws/install/my_robot_bringup:/home/nitin/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/nitin/ros2_ws/build/turtlesim_catch_them/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nitin/ros2_ws/install/turtlesim_catch_them/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them build --build-base /home/nitin/ros2_ws/build/turtlesim_catch_them/build install --record /home/nitin/ros2_ws/build/turtlesim_catch_them/install.log --single-version-externally-managed install_data
+[1.136s] running egg_info
+[1.136s] writing ../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/PKG-INFO
+[1.137s] writing dependency_links to ../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/dependency_links.txt
+[1.137s] writing entry points to ../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/entry_points.txt
+[1.137s] writing requirements to ../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/requires.txt
+[1.137s] writing top-level names to ../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/top_level.txt
+[1.139s] reading manifest file '../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/SOURCES.txt'
+[1.140s] writing manifest file '../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info/SOURCES.txt'
+[1.140s] running build
+[1.140s] running build_py
+[1.140s] copying turtlesim_catch_them/turtle_controller.py -> /home/nitin/ros2_ws/build/turtlesim_catch_them/build/lib/turtlesim_catch_them
+[1.141s] running install
+[1.141s] running install_lib
+[1.142s] copying /home/nitin/ros2_ws/build/turtlesim_catch_them/build/lib/turtlesim_catch_them/turtle_controller.py -> /home/nitin/ros2_ws/install/turtlesim_catch_them/lib/python3.10/site-packages/turtlesim_catch_them
+[1.142s] byte-compiling /home/nitin/ros2_ws/install/turtlesim_catch_them/lib/python3.10/site-packages/turtlesim_catch_them/turtle_controller.py to turtle_controller.cpython-310.pyc
+[1.144s] running install_data
+[1.144s] running install_egg_info
+[1.146s] removing '/home/nitin/ros2_ws/install/turtlesim_catch_them/lib/python3.10/site-packages/turtlesim_catch_them-0.0.0-py3.10.egg-info' (and everything under it)
+[1.146s] Copying ../../build/turtlesim_catch_them/turtlesim_catch_them.egg-info to /home/nitin/ros2_ws/install/turtlesim_catch_them/lib/python3.10/site-packages/turtlesim_catch_them-0.0.0-py3.10.egg-info
+[1.147s] running install_scripts
+[1.169s] Installing turtle_spawn script to /home/nitin/ros2_ws/install/turtlesim_catch_them/lib/turtlesim_catch_them
+[1.169s] Installing turtlesim_controller script to /home/nitin/ros2_ws/install/turtlesim_catch_them/lib/turtlesim_catch_them
+[1.169s] writing list of installed files to '/home/nitin/ros2_ws/build/turtlesim_catch_them/install.log'
+[1.200s] Invoked command in '/home/nitin/ros2_ws/scr/turtlesim_catch_them' returned '0': CMAKE_PREFIX_PATH=/home/nitin/ros2_ws/install/my_robot_interfaces:/home/nitin/ros2_ws/install/my_robot_bringup:/home/nitin/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/nitin/ros2_ws/build/turtlesim_catch_them/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nitin/ros2_ws/install/turtlesim_catch_them/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_catch_them build --build-base /home/nitin/ros2_ws/build/turtlesim_catch_them/build install --record /home/nitin/ros2_ws/build/turtlesim_catch_them/install.log --single-version-externally-managed install_data

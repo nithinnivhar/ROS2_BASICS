@@ -1,0 +1,21 @@
+[0.597s] Invoking command in '/home/nitin/ros2_ws/scr/build/my_py_pkg': PYTHONPATH=/home/nitin/ros2_ws/scr/build/my_py_pkg/prefix_override:/home/nitin/ros2_ws/scr/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/nitin/ros2_ws/scr/build/my_py_pkg/build --no-deps install_data
+[0.787s] running develop
+[0.904s] running egg_info
+[0.904s] writing my_py_pkg.egg-info/PKG-INFO
+[0.904s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.904s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.904s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.905s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.906s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.907s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.908s] running build_ext
+[0.908s] Creating /home/nitin/ros2_ws/scr/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.909s] Installing number_counter script to /home/nitin/ros2_ws/scr/install/my_py_pkg/lib/my_py_pkg
+[0.909s] Installing number_publisher script to /home/nitin/ros2_ws/scr/install/my_py_pkg/lib/my_py_pkg
+[0.909s] Installing py_node script to /home/nitin/ros2_ws/scr/install/my_py_pkg/lib/my_py_pkg
+[0.909s] Installing robot_news_station script to /home/nitin/ros2_ws/scr/install/my_py_pkg/lib/my_py_pkg
+[0.909s] Installing smartphone script to /home/nitin/ros2_ws/scr/install/my_py_pkg/lib/my_py_pkg
+[0.910s] 
+[0.910s] Installed /home/nitin/ros2_ws/scr/build/my_py_pkg
+[0.910s] running install_data
+[0.952s] Invoked command in '/home/nitin/ros2_ws/scr/build/my_py_pkg' returned '0': PYTHONPATH=/home/nitin/ros2_ws/scr/build/my_py_pkg/prefix_override:/home/nitin/ros2_ws/scr/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/nitin/ros2_ws/scr/build/my_py_pkg/build --no-deps install_data

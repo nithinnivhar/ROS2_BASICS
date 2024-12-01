@@ -1,0 +1,20 @@
+[0.650s] Invoking command in '/home/nitin/ros2_ws/scr/my-py-pkg': PYTHONPATH=/home/nitin/ros2_ws/build/my-py-pkg/prefix_override:/home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my-py-pkg build --build-base /home/nitin/ros2_ws/build/my-py-pkg/build install --record /home/nitin/ros2_ws/build/my-py-pkg/install.log --single-version-externally-managed
+[0.832s] running egg_info
+[0.833s] writing ../../build/my-py-pkg/my_py_pkg.egg-info/PKG-INFO
+[0.833s] writing dependency_links to ../../build/my-py-pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.833s] writing entry points to ../../build/my-py-pkg/my_py_pkg.egg-info/entry_points.txt
+[0.833s] writing requirements to ../../build/my-py-pkg/my_py_pkg.egg-info/requires.txt
+[0.833s] writing top-level names to ../../build/my-py-pkg/my_py_pkg.egg-info/top_level.txt
+[0.835s] reading manifest file '../../build/my-py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.836s] writing manifest file '../../build/my-py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.836s] running build
+[0.836s] running build_py
+[0.836s] running install
+[0.836s] running install_lib
+[0.837s] running install_data
+[0.838s] running install_egg_info
+[0.839s] removing '/home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.839s] Copying ../../build/my-py-pkg/my_py_pkg.egg-info to /home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.840s] running install_scripts
+[0.855s] writing list of installed files to '/home/nitin/ros2_ws/build/my-py-pkg/install.log'
+[0.878s] Invoked command in '/home/nitin/ros2_ws/scr/my-py-pkg' returned '0': PYTHONPATH=/home/nitin/ros2_ws/build/my-py-pkg/prefix_override:/home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my-py-pkg build --build-base /home/nitin/ros2_ws/build/my-py-pkg/build install --record /home/nitin/ros2_ws/build/my-py-pkg/install.log --single-version-externally-managed

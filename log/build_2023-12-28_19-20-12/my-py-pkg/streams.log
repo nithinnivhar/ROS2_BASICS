@@ -1,0 +1,33 @@
+[0.600s] Invoking command in '/home/nitin/ros2_ws/scr/my-py-pkg': PYTHONPATH=/home/nitin/ros2_ws/build/my-py-pkg/prefix_override:/home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my-py-pkg build --build-base /home/nitin/ros2_ws/build/my-py-pkg/build install --record /home/nitin/ros2_ws/build/my-py-pkg/install.log --single-version-externally-managed
+[0.770s] running egg_info
+[0.770s] creating ../../build/my-py-pkg/my_py_pkg.egg-info
+[0.770s] writing ../../build/my-py-pkg/my_py_pkg.egg-info/PKG-INFO
+[0.770s] writing dependency_links to ../../build/my-py-pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.770s] writing entry points to ../../build/my-py-pkg/my_py_pkg.egg-info/entry_points.txt
+[0.770s] writing requirements to ../../build/my-py-pkg/my_py_pkg.egg-info/requires.txt
+[0.770s] writing top-level names to ../../build/my-py-pkg/my_py_pkg.egg-info/top_level.txt
+[0.770s] writing manifest file '../../build/my-py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.771s] reading manifest file '../../build/my-py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.772s] writing manifest file '../../build/my-py-pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.772s] running build
+[0.772s] running build_py
+[0.772s] creating /home/nitin/ros2_ws/build/my-py-pkg/build
+[0.772s] creating /home/nitin/ros2_ws/build/my-py-pkg/build/lib
+[0.772s] creating /home/nitin/ros2_ws/build/my-py-pkg/build/lib/my-py-pkg
+[0.772s] copying my-py-pkg/__init__.py -> /home/nitin/ros2_ws/build/my-py-pkg/build/lib/my-py-pkg
+[0.772s] running install
+[0.772s] running install_lib
+[0.773s] creating /home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages/my-py-pkg
+[0.773s] copying /home/nitin/ros2_ws/build/my-py-pkg/build/lib/my-py-pkg/__init__.py -> /home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages/my-py-pkg
+[0.773s] byte-compiling /home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages/my-py-pkg/__init__.py to __init__.cpython-310.pyc
+[0.773s] running install_data
+[0.774s] creating /home/nitin/ros2_ws/install/my-py-pkg/share/ament_index
+[0.774s] creating /home/nitin/ros2_ws/install/my-py-pkg/share/ament_index/resource_index
+[0.774s] creating /home/nitin/ros2_ws/install/my-py-pkg/share/ament_index/resource_index/packages
+[0.774s] copying resource/my-py-pkg -> /home/nitin/ros2_ws/install/my-py-pkg/share/ament_index/resource_index/packages
+[0.774s] copying package.xml -> /home/nitin/ros2_ws/install/my-py-pkg/share/my-py-pkg
+[0.774s] running install_egg_info
+[0.775s] Copying ../../build/my-py-pkg/my_py_pkg.egg-info to /home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.776s] running install_scripts
+[0.789s] writing list of installed files to '/home/nitin/ros2_ws/build/my-py-pkg/install.log'
+[0.811s] Invoked command in '/home/nitin/ros2_ws/scr/my-py-pkg' returned '0': PYTHONPATH=/home/nitin/ros2_ws/build/my-py-pkg/prefix_override:/home/nitin/ros2_ws/install/my-py-pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my-py-pkg build --build-base /home/nitin/ros2_ws/build/my-py-pkg/build install --record /home/nitin/ros2_ws/build/my-py-pkg/install.log --single-version-externally-managed

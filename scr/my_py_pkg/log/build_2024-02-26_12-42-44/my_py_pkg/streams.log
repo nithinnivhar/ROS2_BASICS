@@ -1,0 +1,60 @@
+[0.556s] Invoking command in '/home/nitin/ros2_ws/scr/my_py_pkg': PYTHONPATH=/home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/prefix_override:/home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/my_py_pkg build --build-base /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build install --record /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/install.log --single-version-externally-managed
+[0.717s] running egg_info
+[0.718s] creating build/my_py_pkg/my_py_pkg.egg-info
+[0.718s] writing build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[0.718s] writing dependency_links to build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[0.718s] writing entry points to build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[0.718s] writing requirements to build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[0.718s] writing top-level names to build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[0.718s] writing manifest file 'build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.719s] reading manifest file 'build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.720s] writing manifest file 'build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[0.720s] running build
+[0.720s] running build_py
+[0.720s] creating /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build
+[0.720s] creating /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib
+[0.720s] creating /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.720s] copying my_py_pkg/number_publisher.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.720s] copying my_py_pkg/robot_news_station.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.721s] copying my_py_pkg/smartphone.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.721s] copying my_py_pkg/number_counter.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.721s] copying my_py_pkg/__init__.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.721s] copying my_py_pkg/template_python_node.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.722s] copying my_py_pkg/add_two_ints_server.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.722s] copying my_py_pkg/my_first_node.py -> /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg
+[0.722s] running install
+[0.723s] running install_lib
+[0.723s] creating /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/number_publisher.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/robot_news_station.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/smartphone.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/number_counter.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/template_python_node.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.723s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/add_two_ints_server.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.724s] copying /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build/lib/my_py_pkg/my_first_node.py -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[0.724s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_publisher.py to number_publisher.cpython-310.pyc
+[0.724s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/robot_news_station.py to robot_news_station.cpython-310.pyc
+[0.724s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/smartphone.py to smartphone.cpython-310.pyc
+[0.724s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/number_counter.py to number_counter.cpython-310.pyc
+[0.725s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[0.725s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/template_python_node.py to template_python_node.cpython-310.pyc
+[0.725s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-310.pyc
+[0.725s] byte-compiling /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/my_first_node.py to my_first_node.cpython-310.pyc
+[0.725s] running install_data
+[0.726s] creating /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/share/ament_index
+[0.726s] creating /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/share/ament_index/resource_index
+[0.726s] creating /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/share/ament_index/resource_index/packages
+[0.726s] copying resource/my_py_pkg -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/share/ament_index/resource_index/packages
+[0.726s] copying package.xml -> /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/share/my_py_pkg
+[0.726s] running install_egg_info
+[0.727s] Copying build/my_py_pkg/my_py_pkg.egg-info to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[0.728s] running install_scripts
+[0.741s] Installing add_two_ints_server script to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/my_py_pkg
+[0.741s] Installing number_counter script to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/my_py_pkg
+[0.741s] Installing number_publisher script to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/my_py_pkg
+[0.741s] Installing py_node script to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/my_py_pkg
+[0.742s] Installing robot_news_station script to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/my_py_pkg
+[0.742s] Installing smartphone script to /home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/my_py_pkg
+[0.742s] writing list of installed files to '/home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/install.log'
+[0.756s] Invoked command in '/home/nitin/ros2_ws/scr/my_py_pkg' returned '0': PYTHONPATH=/home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/prefix_override:/home/nitin/ros2_ws/scr/my_py_pkg/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/my_py_pkg build --build-base /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/build install --record /home/nitin/ros2_ws/scr/my_py_pkg/build/my_py_pkg/install.log --single-version-externally-managed

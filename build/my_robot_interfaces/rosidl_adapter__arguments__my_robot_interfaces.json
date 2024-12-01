@@ -1,0 +1,12 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:msg/LedPanelArray.msg",
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:msg/Turtle.msg",
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:msg/TurtleArray.msg",
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:srv/SetLed.srv",
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:srv/ComputerRectangleArea.srv",
+    "/home/nitin/ros2_ws/scr/my_robot_interfaces:srv/CatchTurtle.srv"
+  ]
+}

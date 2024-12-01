@@ -1,0 +1,19 @@
+[0.612s] Invoking command in '/home/nitin/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/nitin/ros2_ws/build/my_py_pkg/prefix_override:/home/nitin/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/nitin/ros2_ws/build/my_py_pkg/build --no-deps install_data
+[0.797s] running develop
+[0.906s] running egg_info
+[0.907s] writing my_py_pkg.egg-info/PKG-INFO
+[0.907s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.907s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.907s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.907s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.909s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.909s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.910s] running build_ext
+[0.910s] Creating /home/nitin/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.911s] Installing py_node script to /home/nitin/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.911s] Installing robot_news_station script to /home/nitin/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.911s] Installing smartphone script to /home/nitin/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.911s] 
+[0.911s] Installed /home/nitin/ros2_ws/build/my_py_pkg
+[0.911s] running install_data
+[0.951s] Invoked command in '/home/nitin/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/nitin/ros2_ws/build/my_py_pkg/prefix_override:/home/nitin/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/nitin/ros2_ws/build/my_py_pkg/build --no-deps install_data
